@@ -218,6 +218,9 @@ li {
 .grid-container {
     grid-template-columns: 1fr;
 }
+.row{
+    flex-direction: column;
+}
 }
 
 /*footer*/
